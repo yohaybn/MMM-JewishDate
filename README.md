@@ -2,7 +2,7 @@
 The `MMM-JewishDate` module is module of the MagicMirror.
 This module displays the current Jewish date.
 
-[JewishDate](JewishDate.png "JewishDate.")
+![JewishDate](JewishDate.png "JewishDate.")
 
 ## Using the module
 
