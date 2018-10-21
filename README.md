@@ -4,6 +4,9 @@ This module displays the current Jewish date.
 
 ![JewishDate](JewishDate.png "JewishDate.")
 
+## Installtion
+git clone `https://github.com/yohaybn/MMM-JewishDate` into the `~/MagicMirror/modules` directory.
+
 ## Using the module
 
 To use this module, add it to the modules array in the `config/config.js` file:
